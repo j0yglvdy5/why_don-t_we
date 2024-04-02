@@ -1,5 +1,5 @@
 Project name:My favorite band
-Project author:Joygladys Njeri Maina
+Project author:Joygladys Njeri Mainagit add
 a page about my favorite band 'Why Don't We'
 it contains information on;
               ~a short biography of the band
