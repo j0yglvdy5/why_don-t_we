@@ -10,7 +10,7 @@ color:blue;
 }
 
 #header{
-    background-color:darkturquoise;
+    background-color:darkgrey;
     background-size:cover;
     text-align: center;
 }
@@ -26,6 +26,10 @@ body{
 }
 
 #songs{
+    color: blue;
+}
+
+#genres{
     color: blue;
 }
 
