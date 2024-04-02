@@ -1,6 +1,5 @@
-.wrapper{
-color:darkslategrey;
-font-family: Georgia, 'Times New Roman', Times, serif;
+.wrapper{color:darkslategrey ;
+font-family: Georgia,'Times New Roman', Times, serif;
 font-style: italic;}
 
 
@@ -11,7 +10,7 @@ color:blue;
 }
 
 #header{
-    background-color: darkgray;
+    background-color:darkturquoise;
     background-size:cover;
     text-align: center;
 }
@@ -20,6 +19,10 @@ body{
     background: url(./background.png) center no-repeat;
     background-size: cover;
     background-attachment:fixed;
+}
+
+#bandbio{
+    color:darkslategrey;
 }
 
 
